@@ -1,5 +1,7 @@
 ---
 title: "Concept của Likelihood và ứng dụng của nó"
+excerpt: Bài viết này dịch lại một paper của tác giả Etz về khái niệm likelihood (sự hợp lý) trong lý thuyết xác suất, đồng thời trình bày một số ứng dụng cơ bản của khái niệm này.
+tag: mathematics, probability
 ---
 
 > Etz A. Introduction to the Concept of Likelihood and Its Applications. Advances in Methods and Practices in Psychological Science. 2018;1(1):60-69. doi:10.1177/2515245917744314
