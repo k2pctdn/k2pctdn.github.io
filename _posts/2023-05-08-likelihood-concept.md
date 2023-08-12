@@ -4,6 +4,9 @@ excerpt: Bài viết này dịch lại một paper của tác giả Etz về kh�
 tags: 
 - mathematics
 - probability
+categories:
+- Mathematics
+- Probability
 ---
 
 > Etz A. Introduction to the Concept of Likelihood and Its Applications. Advances in Methods and Practices in Psychological Science. 2018;1(1):60-69. doi:10.1177/2515245917744314
