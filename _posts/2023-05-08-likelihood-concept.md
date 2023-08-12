@@ -4,11 +4,10 @@ excerpt: Bài viết này dịch lại một paper của tác giả Etz về kh�
 tags: 
 - mathematics
 - probability
-categories:
-- Mathematics
-- Probability
 ---
 
+> 📓 Paper gốc:
+> 
 > Etz A. Introduction to the Concept of Likelihood and Its Applications. Advances in Methods and Practices in Psychological Science. 2018;1(1):60-69. doi:10.1177/2515245917744314
 
 Likelihood (hợp lý) không phải là xác suất (probability) mà là một đại lượng tỷ lệ với xác suất. Sự hợp lý của một giả thuyết $H$ (the likelihood of a hypothesis) khi biết một số dữ liệu liên quan $D$ (given some data) tỷ lệ với xác suất nhận được $D$ nếu $H$ là một giả thuyết đúng. Gọi $L$ là hàm likelihood thì $L(H)$ đánh giá độ hợp lý của giả thuyết $H$:
