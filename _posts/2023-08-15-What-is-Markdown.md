@@ -67,11 +67,11 @@ Có rất nhiều các Markup Language, một số cái tên có thể kể ra l
 ```
 
 - XML
-```xml
+{% highlight xml %}
 <text>
     <bold>Hello World</bold>
 </text>
-```
+{% endhighlight %}
 
 Cú pháp để in đậm cụm từ Hello World rõ ràng là đơn giản nhất đối với Markdown (xét đến số lượng mark cần dùng và cả mức độ dễ nhớ của syntax).
 
