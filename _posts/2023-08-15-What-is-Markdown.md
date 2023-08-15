@@ -25,7 +25,7 @@ Một vấn đề của các trình xử lí văn bản dạng WYSIWYG là ta kh
 
 Các markup language, ví dụ như Markdown, không ẩn đi các mark này mà hiển thị rõ để ta biết đoạn văn bản đã được mark để hiển thị với thông số như thế nào. Ví dụ, trong Markdown, để **in đậm** một từ, cụm từ, hay đoạn văn nào đó thì cú pháp "đánh dấu" là đặt đoạn văn dó ở giữa hai cặp dấu hoa thị `**`, hoặc giữa hai cặp dấu gạch chân `__` (đây là hai dấu `_` được viết liên tiếp).
 
-```
+```markdown
 **đoạn văn bản cần in đậm**
 
 hoặc
@@ -47,6 +47,33 @@ Vậy mỗi khi thấy một đoạn văn bản nào được mark bằng hai c�
 
 Từ lightweight[^3] là một tính từ trong tiếng Anh và ta có thể dịch nó theo nghĩa đen là "nhẹ". Từ lightweight-nhẹ ở đây ám chỉ rằng cấu trúc (structure) và cú pháp (syntax) của markup language rất đơn giản (plain) và tinh tế (subtle). Vì vậy Lightweight Markup Language còn được gọi là Simple Markup Language hoặc Humane Markup Language[^4]. Mặc dù các hệ thống WYSIWYG thu hút người dùng phổ thông hơn vì tính trực quan và giao diện soạn thảo ít rối rắm, nhưng khi đã quen với syntax của LML thì ta hoàn toàn có thể hiểu được định dạng của văn bản mà ta đang làm việc ở dạng raw mà không cần phải render ra. 
 
+## Markdown
+
+Có rất nhiều các Markup Language có thể kể ra là TeX, Markdown, HTML, XML. Ta thử xét một ví dụ là viết cụm "Hello World" ở dạng in đậm bằng các language này:
+
+- $\TeX$
+```Tex
+\textbf{Hello World}
+```
+
+- Markdown
+```markdown
+**Hello World**
+```
+
+- HTML
+```html
+<strong>Hello World</strong>
+```
+
+- XML
+```xml
+<text>
+    <bold>Hello World</bold>
+</text>
+```
+
+Cú pháp để in đậm cụm từ Hello World rõ ràng là đơn giản nhất đối với Markdown.
 
 [^1]: [Wikipedia - Markup Language](https://en.wikipedia.org/wiki/Markup_language)
 [^2]: [Definition of markup noun from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/markup?q=markup)
