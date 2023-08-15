@@ -49,7 +49,7 @@ Từ lightweight[^3] là một tính từ trong tiếng Anh và ta có thể d�
 
 ## Markdown
 
-Có rất nhiều các Markup Language có thể kể ra là TeX, Markdown, HTML, XML. Ta thử xét một ví dụ là viết cụm "Hello World" ở dạng in đậm bằng các language này:
+Có rất nhiều các Markup Language, một số cái tên có thể kể ra là TeX, Markdown, HTML, XML. Ta thử xét một ví dụ là viết cụm "Hello World" ở dạng in đậm bằng các language này:
 
 - $\TeX$
 ```Tex
@@ -73,7 +73,7 @@ Có rất nhiều các Markup Language có thể kể ra là TeX, Markdown, HTML
 </text>
 ```
 
-Cú pháp để in đậm cụm từ Hello World rõ ràng là đơn giản nhất đối với Markdown.
+Cú pháp để in đậm cụm từ Hello World rõ ràng là đơn giản nhất đối với Markdown (xét đến số lượng mark cần dùng và cả mức độ dễ nhớ của syntax).
 
 [^1]: [Wikipedia - Markup Language](https://en.wikipedia.org/wiki/Markup_language)
 [^2]: [Definition of markup noun from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/markup?q=markup)
