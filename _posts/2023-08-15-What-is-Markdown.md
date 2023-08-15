@@ -51,4 +51,4 @@ Từ lightweight[^3] là một tính từ trong tiếng Anh và ta có thể d�
 [^1]: [Wikipedia - Markup Language](https://en.wikipedia.org/wiki/Markup_language)
 [^2]: [Definition of markup noun from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/markup?q=markup)
 [^3]: [Meaning of lightweight in English](https://dictionary.cambridge.org/dictionary/english/lightweight)
-[^4]: [Lightweight Markup Language](https://en.wikipedia.org/wiki/Lightweight_markup_language)
+[^4]: [Wikipedia - Lightweight Markup Language](https://en.wikipedia.org/wiki/Lightweight_markup_language)
