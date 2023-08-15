@@ -31,11 +31,13 @@ __đoạn văn bản cần in đậm__
 
 Vậy mỗi khi thấy một đoạn văn bản nào được mark bằng hai cặp dấu hoa thị `**` thì ta biết chắc chắn đoạn văn bản đó đang được in đậm. Một ưu điểm rõ ràng của các markup language là nó cho người viết kiểm soát một cách rõ ràng định dạng của văn bản đang viết, hoàn toàn không có các định dạng ẩn đi như các trình xử lí văn bản dạng WYSIWYG. Tuy nhiên, các văn bản viết bằng markup language cũng có một nhược điểm lớn là do các mark không bị ẩn đi, nên với các văn bản có rất nhiều mark thì ta rất dễ rối. 
 
-> **Markup Language**
-> Vậy tóm tắt lại, markup language là các "ngôn ngữ" sử dụng các "mark" (dấu) để chỉ cho máy tính biết đoạn văn bản nào đó cần được định dạng (format) như thế nào.
+> 👉 **Markup Language**
+> 
+> Vậy một cách tổng quan, markup language là thuật ngữ dùng để chỉ các "ngôn ngữ" sử dụng các "mark" (dấu) để chỉ cho máy tính biết đoạn văn bản nào đó cần được định dạng (format) như thế nào.
 
-> **Markup**
-> Từ markup trong lĩnh vực điện toán (computing) được giải thích theo từ điển Oxford là "the symbols used in computer documents that give information about the structure of the document and tell the computer how it is to appear on the computer screen, or how it is to appear when printed"[^2].
+> ℹ️ **Markup**
+> 
+> Từ markup trong lĩnh vực điện toán (computing) được giải thích theo từ điển Oxford là "_the symbols used in computer documents that give information about the structure of the document and tell the computer how it is to appear on the computer screen, or how it is to appear when printed_"[^2].
 
 [^1]: [Wikipedia - Markup Language](https://en.wikipedia.org/wiki/Markup_language)
 [^2]: [Definition of markup noun from the Oxford Advanced Learner's Dictionary](https://www.oxfordlearnersdictionaries.com/definition/english/markup?q=markup)
