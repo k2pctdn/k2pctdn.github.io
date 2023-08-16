@@ -51,22 +51,18 @@ Từ lightweight[^3] là một tính từ trong tiếng Anh và ta có thể d�
 
 Có rất nhiều các Markup Language, một số cái tên có thể kể ra là TeX, Markdown, HTML, XML. Ta thử xét một ví dụ là viết cụm "Hello World" ở dạng in đậm bằng các language này:
 
-- $\TeX$
-```Tex
+{% highlight tex %}
 \textbf{Hello World}
-```
+{% endhighlight %}
 
-- Markdown
-```markdown
+{% highlight markdown %}
 **Hello World**
-```
+{% endhighlight %}
 
-- HTML
-```html
+{% highlight html %}
 <strong>Hello World</strong>
-```
+{% endhighlight %}
 
-- XML
 {% highlight xml %}
 <text>
     <bold>Hello World</bold>
